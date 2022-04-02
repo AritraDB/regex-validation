@@ -1,0 +1,22 @@
+{
+  "name": "regex-validation",
+  "version": "1.0.0",
+  "description": "This validation function will validate Regex numeric, alphaonly, alphanumeric, alphanumericwithspecialchar, email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AritraDB/regex-validation.git"
+  },
+  "keywords": [
+    "regex-validation"
+  ],
+  "author": "Aritra Das Bairagya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AritraDB/regex-validation/issues"
+  },
+  "homepage": "https://github.com/AritraDB/regex-validation#readme"
+}
